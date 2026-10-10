@@ -1,0 +1,37 @@
+[
+  {
+    "id": "faq01",
+    "question": "How should I submit an internship task?",
+    "answer": "Follow the instructions in your assigned case study or official portal. Include source code, a README with setup steps, relevant screenshots or a demo, and a short explanation of your design decisions. If the portal specifies another format, follow the portal."
+  },
+  {
+    "id": "faq02",
+    "question": "What should a project README contain?",
+    "answer": "Include project purpose, features, technology stack, folder structure, installation and run steps, API endpoints where relevant, screenshots, known limitations, and future improvements."
+  },
+  {
+    "id": "faq03",
+    "question": "How do I ask for debugging help?",
+    "answer": "Share the exact error, command, relevant code, expected behavior, actual behavior, and what you tried. Reproduce the issue, isolate the failing step, inspect inputs and logs, change one thing at a time, and retest."
+  },
+  {
+    "id": "faq04",
+    "question": "How is internship progress reviewed?",
+    "answer": "Progress can be reviewed using task completion, code quality, documentation, communication, ability to explain decisions, and response to feedback. This demo uses sample data; real evaluation requires verified portal records and mentor judgment."
+  },
+  {
+    "id": "faq05",
+    "question": "How should I use mentor feedback?",
+    "answer": "Convert feedback into specific actions. Identify the issue, clarify ambiguity, make a small change, add a test or evidence where useful, and report what changed. Ask your mentor if feedback conflicts with task requirements."
+  },
+  {
+    "id": "faq06",
+    "question": "How do I choose my next learning milestone?",
+    "answer": "Choose a measurable milestone that addresses an important skill gap: complete a small exercise, add tests, improve a README, or deploy a minimal demo. Ask your mentor before changing assigned scope."
+  },
+  {
+    "id": "faq07",
+    "question": "What if the assistant does not know the answer?",
+    "answer": "Do not guess. Check the official internship portal, assigned case study, engineering guidelines, or ask the assigned mentor. Portal-specific rules must be confirmed from official sources."
+  }
+]

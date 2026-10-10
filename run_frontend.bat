@@ -1,0 +1,1 @@
+@echo off\ncd /d %~dp0\npython -m streamlit run frontend/app.py\npause\n

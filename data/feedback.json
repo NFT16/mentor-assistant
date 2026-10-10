@@ -1,0 +1,14 @@
+[
+  {
+    "intern_id": "INT-001",
+    "comment": "Good progress. Add clearer evaluation notes and explain why the selected metric is appropriate."
+  },
+  {
+    "intern_id": "INT-002",
+    "comment": "The API runs locally, but add input validation and tests for invalid requests."
+  },
+  {
+    "intern_id": "INT-003",
+    "comment": "Break the data task into smaller milestones and share an update after completing the cleaning step."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "case01",
+    "title": "API Development Basics",
+    "summary": "Build a small REST API with input validation, clear error handling, endpoint documentation, and local run instructions.",
+    "requirements": [
+      "Python",
+      "FastAPI",
+      "REST API",
+      "validation",
+      "README"
+    ]
+  },
+  {
+    "id": "case02",
+    "title": "Data Analysis Mini Project",
+    "summary": "Explore a structured dataset, clean it, calculate useful summaries, create a visualization, and explain limitations.",
+    "requirements": [
+      "Python",
+      "pandas",
+      "data cleaning",
+      "visualization",
+      "analysis"
+    ]
+  },
+  {
+    "id": "case03",
+    "title": "Introductory Machine Learning",
+    "summary": "Train and evaluate a baseline classifier, use a suitable train/test split, report metrics, and explain failure cases.",
+    "requirements": [
+      "Python",
+      "scikit-learn",
+      "classification",
+      "evaluation",
+      "metrics"
+    ]
+  },
+  {
+    "id": "case04",
+    "title": "NLP Text Classifier",
+    "summary": "Prepare a small text dataset, build a baseline text-classification pipeline, and evaluate precision, recall, and F1.",
+    "requirements": [
+      "Python",
+      "NLP",
+      "TF-IDF",
+      "classification",
+      "F1 score"
+    ]
+  }
+]

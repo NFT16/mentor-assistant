@@ -1,0 +1,62 @@
+[
+  {
+    "intern_id": "INT-001",
+    "name": "Ayesha Khan",
+    "track": "AI/ML",
+    "skills": [
+      "Python",
+      "pandas",
+      "basic ML"
+    ],
+    "required_skills": [
+      "Python",
+      "scikit-learn",
+      "model evaluation",
+      "Git"
+    ],
+    "progress": 78,
+    "tasks_completed": 7,
+    "tasks_total": 9,
+    "status": "On track"
+  },
+  {
+    "intern_id": "INT-002",
+    "name": "Hamza Ali",
+    "track": "Backend Engineering",
+    "skills": [
+      "Python",
+      "basic APIs"
+    ],
+    "required_skills": [
+      "Python",
+      "FastAPI",
+      "REST API",
+      "testing",
+      "Git"
+    ],
+    "progress": 42,
+    "tasks_completed": 3,
+    "tasks_total": 8,
+    "status": "Needs support"
+  },
+  {
+    "intern_id": "INT-003",
+    "name": "Sara Ahmed",
+    "track": "Data Analytics",
+    "skills": [
+      "Excel",
+      "pandas",
+      "visualization"
+    ],
+    "required_skills": [
+      "pandas",
+      "SQL",
+      "data cleaning",
+      "statistics"
+    ],
+    "progress": 25,
+    "tasks_completed": 2,
+    "tasks_total": 8,
+    "status": "At risk"
+  }
+]
