@@ -1,10 +1,17 @@
 import streamlit as st
 import requests
-
+import os
 st.set_page_config(page_title="EEF AI Mentor Assistant", page_icon="🎓", layout="wide")
 st.title("🎓 EEF AI Mentor Assistant")
 st.caption("Beginner-friendly prototype • local knowledge retrieval • mentor makes final decisions")
-API_URL = st.sidebar.text_input("Backend API URL", "http://127.0.0.1:8000").rstrip("/")
+try:
+    default_api_url = st.secrets["https://mentor-assistant-api.onrender.com"]
+except Exception:
+    default_api_url = "http://127.0.0.1:8000"
+
+API_URL = st.sidebar.text_input(
+    "Backend API URL", default_api_url
+).rstrip("/")
 
 try:
     if not requests.get(f"{API_URL}/health", timeout=3).ok:
